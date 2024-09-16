@@ -2,6 +2,7 @@
 **Cave Drones for Autonomous Exploration In GPS Denied Environments**
 
 *Research sponsored by the Micro Air Vehicle (MAV) Lab at the University of Arizona.*
+*This is a fork of the original code and it is aimed as research continuation for Master of Science Thesis within the MAV laboratory*
 
 ## Intro
 'Follower' is currently the main working folder. It contains code for the follower drones; the Python script enables the drones to navigate to waypoints that are already pre-programmed or sent in real time via UDP.
@@ -16,3 +17,5 @@ files that QGroudncontrol saves.
 
 # Contact
 Please email nickyblanch@arizona.edu for questions about code OR usage.
+For updates on progress and additional changes questions, contact nekolny@arizona.edu and for code usage.
+
